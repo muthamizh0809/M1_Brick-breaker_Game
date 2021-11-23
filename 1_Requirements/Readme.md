@@ -20,10 +20,28 @@ game and continuous again.
 This game connects to a standard keyboard to get user input and use VGA port
 to display the whole video screen. If we have enough time, we will play audio and make
 sound synchronous to break a brick. And try to use the mouse to control the paddle.
+# Benefits
+brick breaker Game offers a few benefits. Here are just a few of them:
+
+
+### Prepares for more complex games
+It prepares a person for more complex games because they have to think of multiple things at one time.
+
+### Mannerism
+It helps one to learn how to follow rules and take turns.
+
+### Concentration
+It can help to improve a person's concentration as well as strategic thinking
 # Features
 Brick Breaker (platformer) is a Breakout clonewhich the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the BlackBerry's trackwheel, the computer's mouse or the touch of a finger (in the case of touchscreen).
 # SWOT analysis
-stregth:It helps with creative thinking
-Opportunity:Enhanced problem solving skills
+stregth:It helps with creative thinking.Improve concentration.
+Weakeness:Can be addictive.Works only with keyboard.
+Opportunity:Enhanced problem solving skills.Prepare for more complex games.
+Threat:Can be somewhat demotivating because it is not easy to complete the level.
 # 4W's and 1H
-Who:
+Who:someone who is interested to play the game.
+What:this game improves a player concentration.
+When:this game can be played whenever your feeling board.
+Where:A variety of websites make a simple brick breaker game available.
+How:When the ball start to move the game is also started.
