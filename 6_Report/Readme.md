@@ -52,3 +52,16 @@ When:this game can be played whenever your feeling board.
 Where:A variety of websites make a simple brick breaker game available.
 
 How:When the ball start to move the game is also started.
+# shematic diagram
+
+
+![download123](https://user-images.githubusercontent.com/94265667/143014701-4ba6e1a4-71d2-42f4-bff3-809ee9ddbcee.png)
+
+
+
+# behavioural diagram
+
+
+![images (2)](https://user-images.githubusercontent.com/94265667/143015472-72ca3193-e9b1-4500-9bcb-a732a7492ffa.jpeg)
+
+
